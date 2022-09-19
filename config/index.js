@@ -104,7 +104,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "o1wxd5rxzoh4ZV1PG0tgnyDmNITg",
     },
     // 你可以不断按格式往下增加
     // ...
